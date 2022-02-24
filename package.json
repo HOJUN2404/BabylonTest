@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/HOJUN2404/BabylonTest.git",
+  "homepage": "./",
   "dependencies": {
     "@babylonjs/core": "^4.2.1",
     "@testing-library/jest-dom": "^5.16.2",
